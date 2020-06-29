@@ -23,3 +23,13 @@ bool solution(vector<string> phone_book) {
     }
     return answer;
 }
+
+8 4
+7 1 1
+2 1 1
+4 0 1
+8 1 1
+1 0 1
+1 1 1
+1 1 1
+3 0 0
